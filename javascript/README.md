@@ -9,6 +9,7 @@ _separated by listed difficulty level_
 
 - [hello-world](./hello-world)
 - [leap](./leap)
+- [raindrops](./raindrops)
 - [resistor-color](./resistor-color)
 - [resistor-color-duo](./resistor-color-duo)
 - [reverse-string](./reverse-string)
