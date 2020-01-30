@@ -14,6 +14,7 @@ _separated by listed difficulty level_
 - [resistor-color](./resistor-color)
 - [resistor-color-duo](./resistor-color-duo)
 - [reverse-string](./reverse-string)
+- [rna-transcription](./rna-transcription)
 - [two-fer](./two-fer)
 
 ## Medium
