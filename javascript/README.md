@@ -8,6 +8,7 @@ _separated by listed difficulty level_
 ## Easy
 
 - [hello-world](./hello-world)
+- [gigasecond](./gigasecond)
 - [leap](./leap)
 - [raindrops](./raindrops)
 - [resistor-color](./resistor-color)
