@@ -7,4 +7,5 @@ _separated by listed difficulty level_
 ## Easy
 
 - [hello-world](./hello-world)
+- [resistor-color-duo](./resistor-color-duo)
 - [two-fer](./two-fer)
