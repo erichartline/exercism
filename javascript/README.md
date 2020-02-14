@@ -9,6 +9,7 @@ _separated by listed difficulty level_
 
 - [hello-world](./hello-world)
 - [gigasecond](./gigasecond)
+- [isogram](./isogram)
 - [leap](./leap)
 - [raindrops](./raindrops)
 - [resistor-color](./resistor-color)
