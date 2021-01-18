@@ -12,6 +12,7 @@ _separated by listed difficulty level_
 - [gigasecond](./gigasecond)
 - [isogram](./isogram)
 - [leap](./leap)
+- [pangram](./pangram)
 - [raindrops](./raindrops)
 - [resistor-color](./resistor-color)
 - [resistor-color-duo](./resistor-color-duo)
