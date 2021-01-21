@@ -8,4 +8,5 @@ _separated by listed difficulty level_
 
 - [hello-world](./hello-world)
 - [resistor-color-duo](./resistor-color-duo)
+- [reverse-string](./reverse-string)
 - [two-fer](./two-fer)
