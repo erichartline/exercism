@@ -7,4 +7,5 @@ _separated by listed difficulty level_
 ## Easy
 
 - [hello-world](./hello-world)
+- [raindrops](./raindrops)
 - [two-fer](./two-fer)
