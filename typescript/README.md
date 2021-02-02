@@ -6,6 +6,7 @@ _separated by listed difficulty level_
 
 ## Easy
 
+- [bob](./bob)
 - [hello-world](./hello-world)
 - [resistor-color-duo](./resistor-color-duo)
 - [reverse-string](./reverse-string)
