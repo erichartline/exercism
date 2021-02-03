@@ -7,6 +7,7 @@ _separated by listed difficulty level_
 
 ## Easy
 
+- [etl](./etl)
 - [hello-world](./hello-world)
 - [high-scores](./high-scores)
 - [gigasecond](./gigasecond)
